@@ -1,6 +1,5 @@
 RFID BOARD---->>>> NODEMCU PIN BOARD
 
-
 3.3V---------->>>> 3.3V
 RST----------->>>> D3
 GND----------->>>> GND
